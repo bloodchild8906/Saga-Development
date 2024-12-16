@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a2177c875ab54404db5b0091862af82d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Editor/ScriptableObject/DocRuntimeDataEditor.cs
+  uploadId: 641860

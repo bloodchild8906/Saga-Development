@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ee54a063fb97f814b940c738aeb4c24e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/UIElementExtension/Docs/UIElement Extension DocsSubPages/Script
+    APISubPages/Apply Style.asset
+  uploadId: 641860

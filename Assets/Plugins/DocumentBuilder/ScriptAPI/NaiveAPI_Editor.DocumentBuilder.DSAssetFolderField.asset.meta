@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9c60edbd0ff075f48ab07d147b56be0d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/ScriptAPI/NaiveAPI_Editor.DocumentBuilder.DSAssetFolderField.asset
+  uploadId: 641860

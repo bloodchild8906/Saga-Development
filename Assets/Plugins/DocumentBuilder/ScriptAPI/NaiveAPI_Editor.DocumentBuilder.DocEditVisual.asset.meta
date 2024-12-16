@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 75738056728d14347a260e4c71a8e8e5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/ScriptAPI/NaiveAPI_Editor.DocumentBuilder.DocEditVisual.asset
+  uploadId: 641860

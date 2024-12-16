@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d1501976676351b4db3d240e8193fc1f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Runtime/Scripts/VisualElements/DocTypeElement/DocDescription.cs
+  uploadId: 641860

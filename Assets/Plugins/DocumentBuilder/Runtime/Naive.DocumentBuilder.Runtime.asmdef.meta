@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 39998dbcc539eae4599a6b2e71b42b8c
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Runtime/Naive.DocumentBuilder.Runtime.asmdef
+  uploadId: 641860

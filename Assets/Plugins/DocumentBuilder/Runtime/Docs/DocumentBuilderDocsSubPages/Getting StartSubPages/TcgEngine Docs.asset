@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d03f84ab4ec20274e86f91d6e2a30257, type: 3}
+  m_Name: TcgEngine Docs
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 2800000, guid: 664868bcacc6e164a8bb72881e7cbbeb, type: 3}
+  SubPages:
+  - {fileID: 11400000, guid: a247cb7bf72a0c146946843dbd4f44ff, type: 2}
+  Components:
+  - VisualID: 1
+    JsonData: '{"Level":1}'
+    TextData:
+    - TCG Engine
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 0
+    JsonData: 
+    TextData: []
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 2
+    JsonData: '{"Type":0}'
+    TextData:
+    - TCG Engine is a template to create online card games in Unity. It supports
+      both solo play and multiplayer on a dedicated authoritative server. It also
+      comes with an AI coded with the Minimax algorithm.
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 1
+    JsonData: '{"Level":2}'
+    TextData:
+    - 'Structure '
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 0
+    JsonData: 
+    TextData: []
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 2
+    JsonData: 
+    TextData:
+    - 'There are 3 main app instances: Game Client (Unity), Game Server (Unity),
+      and an optional Web API (NodeJS and MongoDB).'
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 5
+    JsonData: '{"scale":-1.0,"url":"","base64":"","mode":1}'
+    TextData: []
+    ObjsData:
+    - {fileID: 2800000, guid: ceac06bb8b77d1d4f9e7b7c6427ece40, type: 3}
+    VisualVersion: 0
+  - VisualID: 2
+    JsonData: 
+    TextData:
+    - 'The NodeJS app is a HTTP API that handles user login, and save all their data
+      into a database. Such as which cards they own, what are their current decks,
+      and how much coins they have. Both the game client and game server can send
+      http web requests (in JSON format) to the api. Some functions need special
+      privilege (such as giving rewards) so that regular users can''t give themselves
+      rewards. On the other hand, things such as editing decks can be sent directly
+      from the client.
+
+
+
+      Note that the Web API is completely optional and
+      the template is designed to work without it (with the exception of some features
+      such as the leaderboard and friend list). Without the API all user data will
+      be saved locally instead.
+
+
+
+      The Unity Game Server handles all game actions
+      and gameplay logic, and also does the matchmaking. The Game Server is not necessary
+      if you only want to use the asset for solo play.
+
+
+
+      To run the game in
+      solo you do not need to install any server, just run the client from Unity
+      after importing the template (see asset installation).'
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 0
+    JsonData: 
+    TextData: []
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 1
+    JsonData: '{"Level":2}'
+    TextData:
+    - Coding and Development
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 2
+    JsonData: 
+    TextData:
+    - "This is not a no-coding asset. And while cards and abilities can be edited
+      directly from the data files (scriptable objects), you will need to edit the
+      code to add features or change the core game rules. I made the decision to
+      not include any custom editor GUI to keep the code as simple as possible and
+      useable for a varied level of programming skills. A custom GUI editor would
+      make the code a LOT more complex, and while they are nice at first for people
+      with no experience, they can quickly become extremely limitative, or force
+      you to do more programming for every task since you would need to consider
+      the editor as well... \r\n\r\nMy goal is to encourage people to go and edit
+      the code directly. I put a high priority on keeping the code clean and well
+      structured. We have a Discord community for people to help each other if you
+      are just starting with coding. And I will be glad to listen to any feedback
+      to improve the code in future versions if needed. \r\n\r\nCheck the Scripts
+      section for more info on the most important scripts, and how to inherit the
+      base conditions and effects class to make your own."
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 0
+    JsonData: 
+    TextData: []
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 1
+    JsonData: '{"Level":2}'
+    TextData:
+    - Tutorials
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 2
+    JsonData: 
+    TextData:
+    - Tutorial videos are available on Youtube.
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 6
+    JsonData: '{"height":400,"url":"https://www.youtube.com/@indiemarc/videos","mode":1}'
+    TextData:
+    - browse Tutorials on youtube
+    - Open Tutorials
+    ObjsData:
+    - {fileID: 0}
+    VisualVersion: 0
+  - VisualID: 6
+    JsonData: '{"height":400,"url":"https://www.youtube.com/@indiemarc/videos","mode":1}'
+    TextData:
+    - browse Tutorials on youtube
+    - Open Tutorials
+    ObjsData:
+    - {fileID: 0}
+    VisualVersion: 0

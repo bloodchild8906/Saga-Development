@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b3e7e1ba7fae28744a91585c4f7b7e8c
+timeCreated: 1511785629
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106041
+  packageName: CLIU - Command Line Interface for Unity
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/CLIU/Resources/CLIU (Fullscreen).prefab
+  uploadId: 228169

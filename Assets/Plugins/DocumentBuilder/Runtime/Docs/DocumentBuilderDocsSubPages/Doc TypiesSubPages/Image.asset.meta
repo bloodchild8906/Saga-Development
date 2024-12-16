@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 603c6156cad4797438ac52579ad05652
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Runtime/Docs/DocumentBuilderDocsSubPages/Doc
+    TypiesSubPages/Image.asset
+  uploadId: 641860

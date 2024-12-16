@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: aded1c94c327f154f901537e8753f677
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 12388, guid: 0000000000000000e000000000000000, type: 0}
+  disableValidation: 0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Runtime/Resources/DocumentBuilderDefaultRuntimeTheme.tss
+  uploadId: 641860

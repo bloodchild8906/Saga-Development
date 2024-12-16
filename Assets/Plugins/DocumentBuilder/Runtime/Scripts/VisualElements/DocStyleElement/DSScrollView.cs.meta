@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ddeab7285eaf9cc43971b16cc47bef46
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Runtime/Scripts/VisualElements/DocStyleElement/DSScrollView.cs
+  uploadId: 641860

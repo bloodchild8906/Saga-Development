@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6771b349791f52a4386df75e5a3a9dad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Editor/Window/DocExporterWindow.cs
+  uploadId: 641860

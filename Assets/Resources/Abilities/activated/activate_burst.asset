@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ce5f81e5cc37f547af6923758602c8c, type: 3}
+  m_Name: activate_burst
+  m_EditorClassIdentifier: 
+  id: activate_burst
+  trigger: 12
+  conditionsTrigger: []
+  target: 1
+  conditionsTarget: []
+  filtersTarget: []
+  effects:
+  - {fileID: 11400000, guid: 4369324687c62ca488c57afd73a2be36, type: 2}
+  status: []
+  value: 1
+  duration: 0
+  chainAbilities:
+  - {fileID: 11400000, guid: 9b9e79393af76c54785636eb42b736b1, type: 2}
+  manaCost: 0
+  exhaust: 0
+  boardFX: {fileID: 0}
+  casterFX: {fileID: 0}
+  targetFX: {fileID: 1978218510890451076, guid: a12deeffd1eefbb4f878c6692e5363fd,
+    type: 3}
+  castAudio: {fileID: 0}
+  targetAudio: {fileID: 0}
+  chargeTarget: 0
+  title: Burst
+  desc: Take 1 damage to gain +1 attack.
+  projectileFX: {fileID: 0}

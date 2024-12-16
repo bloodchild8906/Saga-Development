@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 843a21f7f6f205741a0a7341aec8e84d, type: 3}
+  m_Name: New CardData
+  m_EditorClassIdentifier: 
+  id: 
+  title: 
+  artFull: {fileID: 0}
+  artBoard: {fileID: 0}
+  type: 0
+  team: {fileID: 0}
+  rarity: {fileID: 0}
+  mana: 0
+  attack: 0
+  hp: 0
+  traits: []
+  stats: []
+  abilities: []
+  text: 
+  desc: 
+  spawnFX: {fileID: 0}
+  deathFX: {fileID: 0}
+  attackFX: {fileID: 0}
+  damageFX: {fileID: 0}
+  idleFX: {fileID: 0}
+  spawnAudio: {fileID: 0}
+  deathAudio: {fileID: 0}
+  attackAudio: {fileID: 0}
+  damageAudio: {fileID: 0}
+  deckbuilding: 0
+  cost: 100
+  packs: []

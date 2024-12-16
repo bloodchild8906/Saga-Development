@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15973c28bbcb1704b9ea19594d4f616f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Runtime/Docs/DocumentBuilderDocsSubPages/IN Progress.asset
+  uploadId: 641860

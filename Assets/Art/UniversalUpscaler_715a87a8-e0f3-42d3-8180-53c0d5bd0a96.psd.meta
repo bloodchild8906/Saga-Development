@@ -1,0 +1,4381 @@
+fileFormatVersion: 2
+guid: 76e2e2a597232fe4d855de2367a58e97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7761476523794095372
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_0
+  - first:
+      213: 3279961343455927001
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_1
+  - first:
+      213: 3229836900124381298
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_2
+  - first:
+      213: 4333216157610774800
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_3
+  - first:
+      213: -8958307675612314524
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_4
+  - first:
+      213: 8343653231261418638
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_5
+  - first:
+      213: 1436150204348376448
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_6
+  - first:
+      213: -2362136168628114639
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_7
+  - first:
+      213: -8227523623745979035
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_8
+  - first:
+      213: -4118881289202602476
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_9
+  - first:
+      213: -3528160745677559641
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_10
+  - first:
+      213: -7801326390539291239
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_11
+  - first:
+      213: 6117678453393872693
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_12
+  - first:
+      213: 8083043172577637555
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_13
+  - first:
+      213: 4025654920509264182
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_14
+  - first:
+      213: -8330735992755548686
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_15
+  - first:
+      213: -5686754251634652864
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_16
+  - first:
+      213: 4113390280977605174
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_17
+  - first:
+      213: -991977636581650908
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_18
+  - first:
+      213: -2851485390170519574
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_19
+  - first:
+      213: -8479262677373251558
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_20
+  - first:
+      213: -768103742237422203
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_21
+  - first:
+      213: -2630436823130727734
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_22
+  - first:
+      213: 4085484496973107706
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_23
+  - first:
+      213: -2464926961971737975
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_24
+  - first:
+      213: -2200252445192425842
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_25
+  - first:
+      213: 4699363846598630959
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_26
+  - first:
+      213: 7316837197093371198
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_27
+  - first:
+      213: -7614967225207781053
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_28
+  - first:
+      213: 5735420168046056115
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_29
+  - first:
+      213: -8000115309763225994
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_30
+  - first:
+      213: 5559849244713395041
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_31
+  - first:
+      213: 1898458461871553002
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_32
+  - first:
+      213: 315494292358564765
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_33
+  - first:
+      213: 670804342642936604
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_34
+  - first:
+      213: -3532039334010385744
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_35
+  - first:
+      213: 2289825382549284402
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_36
+  - first:
+      213: 855837869940122739
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_37
+  - first:
+      213: -3325389986251892475
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_38
+  - first:
+      213: 4992008830581010807
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_39
+  - first:
+      213: 3879841693038924582
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_40
+  - first:
+      213: 679804446293784855
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_41
+  - first:
+      213: 6916142000333745121
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_42
+  - first:
+      213: -2813494107109123707
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_43
+  - first:
+      213: 8339713303565324728
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_44
+  - first:
+      213: -864418759059646643
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_45
+  - first:
+      213: -4828274296930879439
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_46
+  - first:
+      213: 9213277254439816808
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_47
+  - first:
+      213: -7395915865400691653
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_48
+  - first:
+      213: -2098314765549744715
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_49
+  - first:
+      213: -5892317177235070951
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_50
+  - first:
+      213: -1988122678157159266
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_51
+  - first:
+      213: 4778161551101518545
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_52
+  - first:
+      213: -804076387170760299
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_53
+  - first:
+      213: 3990116992836452967
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_54
+  - first:
+      213: 3228534518760379874
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_55
+  - first:
+      213: -1051799172489307543
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_56
+  - first:
+      213: 4972025511609514734
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_57
+  - first:
+      213: -8994163083515590425
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_58
+  - first:
+      213: 1102040662626634088
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_59
+  - first:
+      213: 8794068598848372332
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_60
+  - first:
+      213: -5483817047084780352
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_61
+  - first:
+      213: -6266242125006107666
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_62
+  - first:
+      213: -3425101653962672509
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_63
+  - first:
+      213: -5005449875210648363
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_64
+  - first:
+      213: 8546519841239897035
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_65
+  - first:
+      213: -883805017753613787
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_66
+  - first:
+      213: 6044908375493741037
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_67
+  - first:
+      213: 3601327885054415009
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_68
+  - first:
+      213: 7214642355191246011
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_69
+  - first:
+      213: 5086922159554263829
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_70
+  - first:
+      213: -3917163694536718658
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_71
+  - first:
+      213: 3999002454276828212
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_72
+  - first:
+      213: -6903028544098075612
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_73
+  - first:
+      213: -4230396863641795339
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_74
+  - first:
+      213: -8604687268866198419
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_75
+  - first:
+      213: 3415670309743539890
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_76
+  - first:
+      213: 5178929279886070789
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_77
+  - first:
+      213: -4481949140330677067
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_78
+  - first:
+      213: 7077052471340818936
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_79
+  - first:
+      213: 235142015479666732
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_80
+  - first:
+      213: -3792998001939712298
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_81
+  - first:
+      213: 1241472457807394220
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_82
+  - first:
+      213: 5771761213389675862
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_83
+  - first:
+      213: -2090825664399646063
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_84
+  - first:
+      213: -2931832691110320069
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_85
+  - first:
+      213: 488815060239456811
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_86
+  - first:
+      213: -3312900775727466679
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_87
+  - first:
+      213: -4887990676320859690
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_88
+  - first:
+      213: 5702148393963532034
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_89
+  - first:
+      213: 5765166966900120964
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_90
+  - first:
+      213: -1441221138920942012
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_91
+  - first:
+      213: -3521998905226195462
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_92
+  - first:
+      213: 1363933879680471694
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_93
+  - first:
+      213: -1142196722012934976
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_94
+  - first:
+      213: 5208240474917933904
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_95
+  - first:
+      213: 477756522585223320
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_96
+  - first:
+      213: 192547246212725211
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_97
+  - first:
+      213: -2394250641862014776
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_98
+  - first:
+      213: 4238893568671358118
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_99
+  - first:
+      213: 4129409090483610863
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_100
+  - first:
+      213: -7375013557549144953
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_101
+  - first:
+      213: -6358497181194048586
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_102
+  - first:
+      213: 6589165736014280835
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_103
+  - first:
+      213: 8531598339094261255
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_104
+  - first:
+      213: 8779244473204300240
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_105
+  - first:
+      213: -2986813916671072942
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_106
+  - first:
+      213: -993012609265831863
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_107
+  - first:
+      213: 3784024429681303035
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_108
+  - first:
+      213: 743632578918058319
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_109
+  - first:
+      213: 4290749059323000013
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_110
+  - first:
+      213: 5769779989678690082
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_111
+  - first:
+      213: -49237364902649767
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_112
+  - first:
+      213: 4020155863159319292
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_113
+  - first:
+      213: 7162856061148711243
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_114
+  - first:
+      213: -8692815242385630338
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_115
+  - first:
+      213: -2630214753183384350
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_116
+  - first:
+      213: -7375213387818495340
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_117
+  - first:
+      213: -3390259349068915614
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_118
+  - first:
+      213: -7518961433122512648
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_119
+  - first:
+      213: -5191561814765211316
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_120
+  - first:
+      213: -2694031460395551067
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_121
+  - first:
+      213: 1861874991414724094
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_122
+  - first:
+      213: -7398036813617962389
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_123
+  - first:
+      213: -7019496013136177308
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_124
+  - first:
+      213: -7321028948342986906
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_125
+  - first:
+      213: 452727492064503681
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_126
+  - first:
+      213: 2683875210014861871
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_127
+  - first:
+      213: -3264048496588066183
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_128
+  - first:
+      213: -2186645214090070602
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_129
+  - first:
+      213: -4662780683715661459
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_130
+  - first:
+      213: 6455738593572741134
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_131
+  - first:
+      213: 7861976066267484524
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_132
+  - first:
+      213: 1073620815765305588
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_133
+  - first:
+      213: 3822127647483663215
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_134
+  - first:
+      213: -3877639018966641965
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_135
+  - first:
+      213: 2580019993314176607
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_136
+  - first:
+      213: 8930334415597459680
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_137
+  - first:
+      213: 8075746913741850842
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_138
+  - first:
+      213: 6073321736623037453
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_139
+  - first:
+      213: -6603150544182188835
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_140
+  - first:
+      213: -7703596226646516143
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_141
+  - first:
+      213: -1027315970944047009
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_142
+  - first:
+      213: 5903126954083317298
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_143
+  - first:
+      213: -2386053083567023346
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_144
+  - first:
+      213: 4583158096531201559
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_145
+  - first:
+      213: -2312210420441995474
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_146
+  - first:
+      213: 2623625899144638887
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_147
+  - first:
+      213: 8146304655522403100
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_148
+  - first:
+      213: -3183882588159640070
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_149
+  - first:
+      213: 9060503342667357076
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_150
+  - first:
+      213: -783950080684830410
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_151
+  - first:
+      213: -4329830623974115618
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_152
+  - first:
+      213: -5694452383274239393
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_153
+  - first:
+      213: -6864126140317930354
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_154
+  - first:
+      213: -7645191547280191654
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_155
+  - first:
+      213: -3121395632813167090
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_156
+  - first:
+      213: -1051899787761348299
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_157
+  - first:
+      213: -6670159605492493114
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_158
+  - first:
+      213: 647319152581075836
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_159
+  - first:
+      213: 8749817492189575079
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_160
+  - first:
+      213: -6698899330717489328
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_161
+  - first:
+      213: 7230344641895670763
+    second: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_162
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 955
+        width: 106
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f228b24932b94490800000000000000
+      internalID: -7761476523794095372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 956
+        width: 106
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da14b1c673c48d20800000000000000
+      internalID: 3279961343455927001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 942
+        width: 107
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270dc5a5c8fa2dc20800000000000000
+      internalID: 3229836900124381298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 981
+        width: 96
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0119f51132da22c30800000000000000
+      internalID: 4333216157610774800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 979
+        width: 84
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4640976d1a2bda380800000000000000
+      internalID: -8958307675612314524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 980
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e848062486c9ac370800000000000000
+      internalID: 8343653231261418638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_6
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 953
+        width: 96
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0852a46700b3ee310800000000000000
+      internalID: 1436150204348376448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_7
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 952
+        width: 99
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ba1d57ba1083fd0800000000000000
+      internalID: -2362136168628114639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_8
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 948
+        width: 104
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d7c710bd6f1dd80800000000000000
+      internalID: -8227523623745979035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_9
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 944
+        width: 103
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e631d4a4bc6d6c0800000000000000
+      internalID: -4118881289202602476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_10
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 944
+        width: 102
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8696bae74790fc0800000000000000
+      internalID: -3528160745677559641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_11
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 941
+        width: 98
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99576032bfe1cb390800000000000000
+      internalID: -7801326390539291239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_12
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1017
+        width: 151
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5375a98f32c56e450800000000000000
+      internalID: 6117678453393872693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_13
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1019
+        width: 154
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4f2ad80fcbc2070800000000000000
+      internalID: 8083043172577637555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_14
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1033
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631124542dffdd730800000000000000
+      internalID: 4025654920509264182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_15
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1032
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd8e32b0c7436c80800000000000000
+      internalID: -8330735992755548686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_16
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1033
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049cf5a43279411b0800000000000000
+      internalID: -5686754251634652864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_17
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1033
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632e638baa2b51930800000000000000
+      internalID: 4113390280977605174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_18
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 986
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e4b626899cb32f0800000000000000
+      internalID: -991977636581650908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_19
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 935
+        width: 150
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae78bac352d7d68d0800000000000000
+      internalID: -2851485390170519574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_20
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 931
+        width: 149
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1090fd158b935a80800000000000000
+      internalID: -8479262677373251558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_21
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 954
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d4a4d47b52755f0800000000000000
+      internalID: -768103742237422203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_22
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 955
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca9f2165afce7bd0800000000000000
+      internalID: -2630436823130727734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_23
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 954
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af19271118e82b830800000000000000
+      internalID: 4085484496973107706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_24
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 955
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a4462ecf1dacdd0800000000000000
+      internalID: -2464926961971737975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 812
+        width: 105
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8eee1cfe022771e0800000000000000
+      internalID: -2200252445192425842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 815
+        width: 105
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e13da258e773140800000000000000
+      internalID: 4699363846598630959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 807
+        width: 107
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d7d1c1aa0aa8560800000000000000
+      internalID: 7316837197093371198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_28
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 913
+        width: 100
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3498f3d87a3325690800000000000000
+      internalID: -7614967225207781053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_29
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 911
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b21ff9514e489f40800000000000000
+      internalID: 5735420168046056115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_30
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 914
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676166f1381e9f090800000000000000
+      internalID: -8000115309763225994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_31
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 799
+        width: 102
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163add34e6d882d40800000000000000
+      internalID: 5559849244713395041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_32
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 801
+        width: 88
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae930b0a9eda85a10800000000000000
+      internalID: 1898458461871553002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_33
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 800
+        width: 95
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b02b8236cd06400800000000000000
+      internalID: 315494292358564765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_34
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 786
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b850ddefc2f4900800000000000000
+      internalID: 670804342642936604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_35
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 801
+        width: 103
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba8a9370fcabfec0800000000000000
+      internalID: -3532039334010385744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_36
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 790
+        width: 98
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236e58cad0817cf10800000000000000
+      internalID: 2289825382549284402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_37
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 791
+        width: 155
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374ab1f120c80eb00800000000000000
+      internalID: 855837869940122739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_38
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 792
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50990d91d67d9d1d0800000000000000
+      internalID: -3325389986251892475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_39
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 874
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771f466259d274540800000000000000
+      internalID: 4992008830581010807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_40
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 873
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623d55aa677f7d530800000000000000
+      internalID: 3879841693038924582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_41
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 875
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719721aca862f6900800000000000000
+      internalID: 679804446293784855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_42
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 877
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb6d0a81821bff50800000000000000
+      internalID: 6916142000333745121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 790
+        width: 97
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5891b10240674f8d0800000000000000
+      internalID: -2813494107109123707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_44
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 798
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b15c9b501d9cb370800000000000000
+      internalID: 8339713303565324728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_45
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 797
+        width: 95
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47d011f7b7f004f0800000000000000
+      internalID: -864418759059646643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_46
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 799
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1383945bb168efcb0800000000000000
+      internalID: -4828274296930879439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_47
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 797
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e421059d22cdf70800000000000000
+      internalID: 9213277254439816808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_48
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 796
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34bd16a4bd6c5990800000000000000
+      internalID: -7395915865400691653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_49
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 798
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd437c86d941e2e0800000000000000
+      internalID: -2098314765549744715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_50
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 612
+        width: 116
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910a8f20fb84a3ea0800000000000000
+      internalID: -5892317177235070951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_51
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 612
+        width: 126
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e945b8e25f4c864e0800000000000000
+      internalID: -1988122678157159266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_52
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 612
+        width: 117
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2e5dc6d907f4240800000000000000
+      internalID: 4778161551101518545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_53
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 612
+        width: 118
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599486a39c857d4f0800000000000000
+      internalID: -804076387170760299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_54
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 628
+        width: 210
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7624442b34ebf5730800000000000000
+      internalID: 3990116992836452967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_55
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 628
+        width: 211
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e59ccf0a0f0ecc20800000000000000
+      internalID: 3228534518760379874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_56
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 604
+        width: 154
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a99bca9324761f0800000000000000
+      internalID: -1051799172489307543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_57
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 722
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea3aa12cde200540800000000000000
+      internalID: 4972025511609514734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_58
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 721
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e80f1324505e2380800000000000000
+      internalID: -8994163083515590425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_59
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 722
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86985efc42c3b4f00800000000000000
+      internalID: 1102040662626634088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_60
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 722
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e36c43cceca0a70800000000000000
+      internalID: 8794068598848372332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_61
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 722
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4b74f337195e3b0800000000000000
+      internalID: -5483817047084780352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_62
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 722
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb0c6ebcf5d909a0800000000000000
+      internalID: -6266242125006107666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_63
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 722
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386b3f351389770d0800000000000000
+      internalID: -3425101653962672509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_64
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 722
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4cb07cbd1198ab0800000000000000
+      internalID: -5005449875210648363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_65
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 645
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc39ee2a3865b9670800000000000000
+      internalID: 8546519841239897035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_66
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 644
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a861ad4081cb3f0800000000000000
+      internalID: -883805017753613787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_67
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 644
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de98615e324d3e350800000000000000
+      internalID: 6044908375493741037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_68
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 645
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0906c71ac7af130800000000000000
+      internalID: 3601327885054415009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_69
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 646
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc69aa4ffe8f1460800000000000000
+      internalID: 7214642355191246011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_70
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 645
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b7b40a0c0689640800000000000000
+      internalID: 5086922159554263829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_71
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 647
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb60514bf5073a9c0800000000000000
+      internalID: -3917163694536718658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_72
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 647
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ce5176b8f4f7730800000000000000
+      internalID: 3999002454276828212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_73
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 489
+        width: 157
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cf6aaec148330a0800000000000000
+      internalID: -6903028544098075612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_74
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 477
+        width: 74
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f444b3577c9a45c0800000000000000
+      internalID: -4230396863641795339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_75
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 478
+        width: 205
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6477efb482069880800000000000000
+      internalID: -8604687268866198419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_76
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 519
+        width: 149
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6bc1abc06e66f20800000000000000
+      internalID: 3415670309743539890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_77
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 531
+        width: 186
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5049a7cadb04fd740800000000000000
+      internalID: 5178929279886070789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_78
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 530
+        width: 246
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcf835d00becc1c0800000000000000
+      internalID: -4481949140330677067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_79
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 566
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1e1131abdb63260800000000000000
+      internalID: 7077052471340818936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_80
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 566
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c285f60da64634300800000000000000
+      internalID: 235142015479666732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_81
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 565
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6fd94d9609c5bc0800000000000000
+      internalID: -3792998001939712298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_82
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 574
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca57a0e6f989a3110800000000000000
+      internalID: 1241472457807394220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_83
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 574
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d18745e3a691050800000000000000
+      internalID: 5771761213389675862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_84
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 573
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192603ac225ebf2e0800000000000000
+      internalID: -2090825664399646063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_85
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 574
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38ed7173b90057d0800000000000000
+      internalID: -2931832691110320069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_86
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 574
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a1f6a15be98c600800000000000000
+      internalID: 488815060239456811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_87
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 433
+        width: 149
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947f5a60c463602d0800000000000000
+      internalID: -3312900775727466679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_88
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 471
+        width: 177
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d94978a06e5a2cb0800000000000000
+      internalID: -4887990676320859690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_89
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 421
+        width: 235
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fa2c6c0c9122f40800000000000000
+      internalID: 5702148393963532034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_90
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 487
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dd5ecafccf10050800000000000000
+      internalID: 5765166966900120964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_91
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 487
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44655d39201cffbe0800000000000000
+      internalID: -1441221138920942012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_92
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 485
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd8da2f7a85f1fc0800000000000000
+      internalID: -3521998905226195462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_93
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 489
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82997b13aaade210800000000000000
+      internalID: 1363933879680471694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_94
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 490
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccadc8022a1620f0800000000000000
+      internalID: -1142196722012934976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_95
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 488
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0539b441e13674840800000000000000
+      internalID: 5208240474917933904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_96
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 488
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89071d9a60551a600800000000000000
+      internalID: 477756522585223320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_97
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 493
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd93df443b01ca200800000000000000
+      internalID: 192547246212725211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_98
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 340
+        width: 75
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8409cf9b9e5ced0800000000000000
+      internalID: -2394250641862014776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_99
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 337
+        width: 107
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac1859fd3393da30800000000000000
+      internalID: 4238893568671358118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_100
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 342
+        width: 117
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe46b8270bb9e4930800000000000000
+      internalID: 4129409090483610863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_101
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 363
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784e7907e30b6a990800000000000000
+      internalID: -7375013557549144953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_102
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 364
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb2b91a08412c7a0800000000000000
+      internalID: -6358497181194048586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_103
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 343
+        width: 140
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3887e45735b617b50800000000000000
+      internalID: 6589165736014280835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_104
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 392
+        width: 183
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ea600bc73566670800000000000000
+      internalID: 8531598339094261255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_105
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 409
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d957ad755426d970800000000000000
+      internalID: 8779244473204300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_106
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 409
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255a0ae4194bc86d0800000000000000
+      internalID: -2986813916671072942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_107
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 409
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940f9370b4c1832f0800000000000000
+      internalID: -993012609265831863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_108
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 411
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfddd809b2e838430800000000000000
+      internalID: 3784024429681303035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_109
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 411
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4981ddf3e9e15a00800000000000000
+      internalID: 743632578918058319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_110
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 405
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4f94d398dcb8b30800000000000000
+      internalID: 4290749059323000013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_111
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 412
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f84fcb450621050800000000000000
+      internalID: 5769779989678690082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_112
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 405
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9502d43a0e2115ff0800000000000000
+      internalID: -49237364902649767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_113
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 194
+        width: 125
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaa05535767ac730800000000000000
+      internalID: 4020155863159319292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_114
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 334
+        width: 166
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49c50e13a3976360800000000000000
+      internalID: 7162856061148711243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_115
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 320
+        width: 237
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bd083f79aec5780800000000000000
+      internalID: -8692815242385630338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_116
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 332
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec33811e999f7bd0800000000000000
+      internalID: -2630214753183384350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_117
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 332
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4929f54df7af5a990800000000000000
+      internalID: -7375213387818495340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_118
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 332
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cdc4a951163f0d0800000000000000
+      internalID: -3390259349068915614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_119
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 323
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0eedae96847a790800000000000000
+      internalID: -7518961433122512648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_120
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 327
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41ff69190ed3f7b0800000000000000
+      internalID: -5191561814765211316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_121
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 323
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6756d09a0ec9ad0800000000000000
+      internalID: -2694031460395551067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_122
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 322
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef54577a075b6d910800000000000000
+      internalID: 1861874991414724094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_123
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 325
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62e909e6b4e45990800000000000000
+      internalID: -7398036813617962389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_124
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 187
+        width: 182
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4675fb2219db59e90800000000000000
+      internalID: -7019496013136177308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_125
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 190
+        width: 133
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6672aafb5fa766a90800000000000000
+      internalID: -7321028948342986906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_126
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 203
+        width: 97
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187ee806149684600800000000000000
+      internalID: 452727492064503681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_127
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 195
+        width: 157
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2aa962a84a0f3520800000000000000
+      internalID: 2683875210014861871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_128
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 132
+        width: 248
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972783f9f25c3b2d0800000000000000
+      internalID: -3264048496588066183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_129
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 245
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b57a5c53c977a1e0800000000000000
+      internalID: -2186645214090070602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_130
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 152
+        width: 160
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6133913ca97a4fb0800000000000000
+      internalID: -4662780683715661459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_131
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 245
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00eea00c04679950800000000000000
+      internalID: 6455738593572741134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_132
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 248
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c611f76e3995b1d60800000000000000
+      internalID: 7861976066267484524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_133
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 240
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8f723917446ee00800000000000000
+      internalID: 1073620815765305588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_134
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 237
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63967a48dcea0530800000000000000
+      internalID: 3822127647483663215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_135
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 241
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d29c4b5bdbdf2ac0800000000000000
+      internalID: -3877639018966641965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_136
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 236
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ea5eea3821ec320800000000000000
+      internalID: 2580019993314176607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_137
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 239
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8d12706dbeeeb70800000000000000
+      internalID: 8930334415597459680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_138
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 113
+        width: 193
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad84a89e701d21070800000000000000
+      internalID: 8075746913741850842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_139
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 106
+        width: 173
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c131e01f5c84450800000000000000
+      internalID: 6073321736623037453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_140
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 71
+        width: 195
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4e797a095ec54a0800000000000000
+      internalID: -6603150544182188835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_141
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 153
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ed1b91c04571590800000000000000
+      internalID: -7703596226646516143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_142
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 155
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f586bcf319d3eb1f0800000000000000
+      internalID: -1027315970944047009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_143
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 153
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2367b2a40be1ce150800000000000000
+      internalID: 5903126954083317298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_144
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 165
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b13c2cc5903eed0800000000000000
+      internalID: -2386053083567023346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_145
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 153
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e92359106aa9f30800000000000000
+      internalID: 4583158096531201559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_146
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 152
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27299b8fd069efd0800000000000000
+      internalID: -2312210420441995474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_147
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 152
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1f70ecaddf86420800000000000000
+      internalID: 2623625899144638887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_148
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 154
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1316885cec7d0170800000000000000
+      internalID: 8146304655522403100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_149
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 17
+        width: 158
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd713ea7a390d3d0800000000000000
+      internalID: -3183882588159640070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_150
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 10
+        width: 174
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b5de919cf5dbd70800000000000000
+      internalID: 9060503342667357076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_151
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 17
+        width: 150
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631542f1e89de15f0800000000000000
+      internalID: -783950080684830410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_152
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 98
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed63a68ecf959e3c0800000000000000
+      internalID: -4329830623974115618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_153
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 102
+        width: 224
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aff885abd39f0b0800000000000000
+      internalID: -5694452383274239393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_154
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 132
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c60e0a4a9bdb0a0800000000000000
+      internalID: -6864126140317930354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_155
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 132
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f8b803bc2d6e590800000000000000
+      internalID: -7645191547280191654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_156
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 104
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e27b6b5339ea4d0800000000000000
+      internalID: -3121395632813167090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_157
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 104
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5311d2b57b6e661f0800000000000000
+      internalID: -1051899787761348299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_158
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 24
+        width: 204
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4d577cd25de63a0800000000000000
+      internalID: -6670159605492493114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_159
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 8
+        width: 186
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73e6e1f65dbbf800800000000000000
+      internalID: 647319152581075836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_160
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 23
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7757f86a89d6970800000000000000
+      internalID: 8749817492189575079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_161
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 16
+        width: 215
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0576b7e0d8ab803a0800000000000000
+      internalID: -6698899330717489328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_162
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 23
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be327dfc428575460800000000000000
+      internalID: 7230344641895670763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_0: -7761476523794095372
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_1: 3279961343455927001
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_10: -3528160745677559641
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_100: 4129409090483610863
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_101: -7375013557549144953
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_102: -6358497181194048586
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_103: 6589165736014280835
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_104: 8531598339094261255
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_105: 8779244473204300240
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_106: -2986813916671072942
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_107: -993012609265831863
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_108: 3784024429681303035
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_109: 743632578918058319
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_11: -7801326390539291239
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_110: 4290749059323000013
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_111: 5769779989678690082
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_112: -49237364902649767
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_113: 4020155863159319292
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_114: 7162856061148711243
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_115: -8692815242385630338
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_116: -2630214753183384350
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_117: -7375213387818495340
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_118: -3390259349068915614
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_119: -7518961433122512648
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_12: 6117678453393872693
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_120: -5191561814765211316
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_121: -2694031460395551067
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_122: 1861874991414724094
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_123: -7398036813617962389
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_124: -7019496013136177308
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_125: -7321028948342986906
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_126: 452727492064503681
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_127: 2683875210014861871
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_128: -3264048496588066183
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_129: -2186645214090070602
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_13: 8083043172577637555
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_130: -4662780683715661459
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_131: 6455738593572741134
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_132: 7861976066267484524
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_133: 1073620815765305588
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_134: 3822127647483663215
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_135: -3877639018966641965
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_136: 2580019993314176607
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_137: 8930334415597459680
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_138: 8075746913741850842
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_139: 6073321736623037453
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_14: 4025654920509264182
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_140: -6603150544182188835
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_141: -7703596226646516143
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_142: -1027315970944047009
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_143: 5903126954083317298
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_144: -2386053083567023346
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_145: 4583158096531201559
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_146: -2312210420441995474
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_147: 2623625899144638887
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_148: 8146304655522403100
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_149: -3183882588159640070
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_15: -8330735992755548686
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_150: 9060503342667357076
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_151: -783950080684830410
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_152: -4329830623974115618
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_153: -5694452383274239393
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_154: -6864126140317930354
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_155: -7645191547280191654
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_156: -3121395632813167090
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_157: -1051899787761348299
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_158: -6670159605492493114
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_159: 647319152581075836
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_16: -5686754251634652864
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_160: 8749817492189575079
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_161: -6698899330717489328
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_162: 7230344641895670763
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_17: 4113390280977605174
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_18: -991977636581650908
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_19: -2851485390170519574
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_2: 3229836900124381298
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_20: -8479262677373251558
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_21: -768103742237422203
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_22: -2630436823130727734
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_23: 4085484496973107706
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_24: -2464926961971737975
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_25: -2200252445192425842
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_26: 4699363846598630959
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_27: 7316837197093371198
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_28: -7614967225207781053
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_29: 5735420168046056115
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_3: 4333216157610774800
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_30: -8000115309763225994
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_31: 5559849244713395041
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_32: 1898458461871553002
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_33: 315494292358564765
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_34: 670804342642936604
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_35: -3532039334010385744
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_36: 2289825382549284402
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_37: 855837869940122739
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_38: -3325389986251892475
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_39: 4992008830581010807
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_4: -8958307675612314524
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_40: 3879841693038924582
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_41: 679804446293784855
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_42: 6916142000333745121
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_43: -2813494107109123707
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_44: 8339713303565324728
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_45: -864418759059646643
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_46: -4828274296930879439
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_47: 9213277254439816808
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_48: -7395915865400691653
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_49: -2098314765549744715
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_5: 8343653231261418638
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_50: -5892317177235070951
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_51: -1988122678157159266
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_52: 4778161551101518545
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_53: -804076387170760299
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_54: 3990116992836452967
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_55: 3228534518760379874
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_56: -1051799172489307543
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_57: 4972025511609514734
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_58: -8994163083515590425
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_59: 1102040662626634088
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_6: 1436150204348376448
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_60: 8794068598848372332
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_61: -5483817047084780352
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_62: -6266242125006107666
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_63: -3425101653962672509
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_64: -5005449875210648363
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_65: 8546519841239897035
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_66: -883805017753613787
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_67: 6044908375493741037
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_68: 3601327885054415009
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_69: 7214642355191246011
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_7: -2362136168628114639
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_70: 5086922159554263829
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_71: -3917163694536718658
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_72: 3999002454276828212
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_73: -6903028544098075612
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_74: -4230396863641795339
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_75: -8604687268866198419
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_76: 3415670309743539890
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_77: 5178929279886070789
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_78: -4481949140330677067
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_79: 7077052471340818936
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_8: -8227523623745979035
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_80: 235142015479666732
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_81: -3792998001939712298
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_82: 1241472457807394220
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_83: 5771761213389675862
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_84: -2090825664399646063
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_85: -2931832691110320069
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_86: 488815060239456811
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_87: -3312900775727466679
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_88: -4887990676320859690
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_89: 5702148393963532034
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_9: -4118881289202602476
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_90: 5765166966900120964
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_91: -1441221138920942012
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_92: -3521998905226195462
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_93: 1363933879680471694
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_94: -1142196722012934976
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_95: 5208240474917933904
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_96: 477756522585223320
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_97: 192547246212725211
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_98: -2394250641862014776
+      UniversalUpscaler_715a87a8-e0f3-42d3-8180-53c0d5bd0a96_99: 4238893568671358118
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

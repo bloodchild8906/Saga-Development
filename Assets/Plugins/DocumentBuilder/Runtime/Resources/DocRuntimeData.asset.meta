@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b84771751ec9e454681bdb7f2ec829d0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Runtime/Resources/DocRuntimeData.asset
+  uploadId: 641860

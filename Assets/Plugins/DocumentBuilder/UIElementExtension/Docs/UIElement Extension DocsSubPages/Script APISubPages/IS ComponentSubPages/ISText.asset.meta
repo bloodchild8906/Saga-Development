@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9402bfa8a2a10b94a81a8f921067d532
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/UIElementExtension/Docs/UIElement Extension DocsSubPages/Script
+    APISubPages/IS ComponentSubPages/ISText.asset
+  uploadId: 641860

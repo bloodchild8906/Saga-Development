@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0f57bcab4267c564893f02a4f802c076
+timeCreated: 1509733111
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106041
+  packageName: CLIU - Command Line Interface for Unity
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/CLIU/Scripts/Modules/CommandLineModuleTransform.cs
+  uploadId: 228169

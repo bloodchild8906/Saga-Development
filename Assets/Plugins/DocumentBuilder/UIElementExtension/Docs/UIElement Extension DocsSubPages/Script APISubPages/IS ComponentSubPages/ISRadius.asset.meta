@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: accd71df0fe01904081063f12a12bd09
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/UIElementExtension/Docs/UIElement Extension DocsSubPages/Script
+    APISubPages/IS ComponentSubPages/ISRadius.asset
+  uploadId: 641860

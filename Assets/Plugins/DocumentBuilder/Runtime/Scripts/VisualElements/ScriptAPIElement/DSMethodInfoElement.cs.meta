@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f65c3805d216f7b43a98d102d941b71b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Runtime/Scripts/VisualElements/ScriptAPIElement/DSMethodInfoElement.cs
+  uploadId: 641860

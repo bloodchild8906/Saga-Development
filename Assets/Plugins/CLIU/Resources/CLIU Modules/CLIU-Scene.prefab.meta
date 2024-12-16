@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 77cb86279b167cb40bac846cb8b35bca
+timeCreated: 1511285296
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106041
+  packageName: CLIU - Command Line Interface for Unity
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/CLIU/Resources/CLIU Modules/CLIU-Scene.prefab
+  uploadId: 228169

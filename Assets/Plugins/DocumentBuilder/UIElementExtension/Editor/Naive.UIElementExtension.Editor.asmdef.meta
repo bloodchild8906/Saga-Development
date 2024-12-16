@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b188847d2f59b7d4281689ebcc2a93df
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/UIElementExtension/Editor/Naive.UIElementExtension.Editor.asmdef
+  uploadId: 641860

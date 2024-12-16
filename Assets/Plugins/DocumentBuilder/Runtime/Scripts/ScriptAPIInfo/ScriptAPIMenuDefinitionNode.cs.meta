@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 33009090fc0851b48bd08a52e0074b93
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Runtime/Scripts/ScriptAPIInfo/ScriptAPIMenuDefinitionNode.cs
+  uploadId: 641860

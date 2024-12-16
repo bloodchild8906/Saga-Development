@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b68b7668db3f84742840e4793e6a3482
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/UIElementExtension/Runitme/ISStyle/ISStyle.cs
+  uploadId: 641860

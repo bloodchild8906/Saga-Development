@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e00fb4f63c32bc7489f285f95580f7fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Editor/VisualElement/DocPageDeleter.cs
+  uploadId: 641860

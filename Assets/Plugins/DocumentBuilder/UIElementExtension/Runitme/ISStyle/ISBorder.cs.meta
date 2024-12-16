@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c819d9d181eba2e429a8cba4d0c26de8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/UIElementExtension/Runitme/ISStyle/ISBorder.cs
+  uploadId: 641860

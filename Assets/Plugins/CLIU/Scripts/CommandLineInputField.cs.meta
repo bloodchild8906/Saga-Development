@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 99c7891f2418fec4aa872b3b65d2b367
+timeCreated: 1509028187
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106041
+  packageName: CLIU - Command Line Interface for Unity
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/CLIU/Scripts/CommandLineInputField.cs
+  uploadId: 228169

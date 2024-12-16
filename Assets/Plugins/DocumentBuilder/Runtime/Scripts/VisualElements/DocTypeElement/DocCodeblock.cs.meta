@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c88becaac892fb547a3f9fe9b6e7a1a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Runtime/Scripts/VisualElements/DocTypeElement/DocCodeblock.cs
+  uploadId: 641860

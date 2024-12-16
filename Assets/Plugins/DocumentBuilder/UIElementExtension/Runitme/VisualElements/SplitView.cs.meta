@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8845147959ed6b84abbdb9222c189cf4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/UIElementExtension/Runitme/VisualElements/SplitView.cs
+  uploadId: 641860

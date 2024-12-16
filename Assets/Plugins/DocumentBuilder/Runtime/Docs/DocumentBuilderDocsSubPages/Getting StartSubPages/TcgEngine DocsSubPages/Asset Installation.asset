@@ -1,0 +1,259 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d03f84ab4ec20274e86f91d6e2a30257, type: 3}
+  m_Name: Asset Installation
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 0}
+  SubPages: []
+  Components:
+  - VisualID: 1
+    JsonData: 
+    TextData:
+    - Asset Installation
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 1
+    JsonData: '{"Level":2}'
+    TextData:
+    - Packages
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 2
+    JsonData: 
+    TextData:
+    - "When importing TCG Engine asset, I would recommend to also import all Project
+      Settings. \r\n\r\nIf you override project settings, you need to prevent the
+      ProjectVersion.txt file from importing, because that will break your project
+      (Unity can't downgrade version). This is a Unity bug I am trying to report
+      to Unity. Just turn off the checkbox during Step 2 of 2."
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 5
+    JsonData: '{"scale":-1.0,"url":"","base64":"","mode":1}'
+    TextData: []
+    ObjsData:
+    - {fileID: 2800000, guid: 644a23414882c76479b68aa30e5b90b1, type: 3}
+    VisualVersion: 0
+  - VisualID: 2
+    JsonData: 
+    TextData:
+    - If you do not wish to override projects settings, you need to make sure you
+      have these packages installed.
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 5
+    JsonData: '{"scale":-1.0,"url":"","base64":"","mode":1}'
+    TextData: []
+    ObjsData:
+    - {fileID: 2800000, guid: 490665cb410603949b0fcd59979f5b61, type: 3}
+    VisualVersion: 0
+  - VisualID: 2
+    JsonData: 
+    TextData:
+    - 'These are the packages in my project, the ones in green are necessary, the
+      others are optional. Toolchain Win Linux is necessary to build the dedicated
+      server on Linux (I use Linux for my server).
+
+      
+
+      I would recommend
+      updating to the latest version of each package, not to the version in this
+      screenshot.'
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 1
+    JsonData: '{"Level":2}'
+    TextData:
+    - Render pipeline
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 2
+    JsonData: 
+    TextData:
+    - If you plan to use URP (recommended pipeline), in the Projects Settings - Graphics,
+      set the render pipeline to one of the render asset found in the TcgEngine/Render
+      folder. You may also assign the other render asset to the appropriate quality
+      under Projects Settings - Quality.
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 5
+    JsonData: '{"scale":-1.0,"url":"","base64":"","mode":1}'
+    TextData: []
+    ObjsData:
+    - {fileID: 2800000, guid: 6e14edfb77ab3f946a8e3472b1c6a6b2, type: 3}
+    VisualVersion: 0
+  - VisualID: 2
+    JsonData: 
+    TextData:
+    - 'URP Only ?
+
+      I would strongly recommend to use URP for a card game. 
+      HDRP would be overkill for this type of game since it''s more aimed at more
+      realistic 3D games, and the built-in pipeline would prevent you from using
+      cool features such as shader graph or some post-processing effects.
+
+      
+
+      Built-in
+      Pipeline is still supported (in 1.01+), if you choose to use Built-in pipeline,
+      go in the TcgEngine/Materials folder and import the Built-in material package.
+
+      
+
+      Scripts
+      will also work in HDRP, but the demo FX are currently not supported on HDRP.'
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 5
+    JsonData: '{"scale":-1.0,"url":"","base64":"","mode":1}'
+    TextData: []
+    ObjsData:
+    - {fileID: 2800000, guid: f888fa67db933d048bbb8b04dbd48163, type: 3}
+    VisualVersion: 0
+  - VisualID: 
+    JsonData: 
+    TextData: []
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 2
+    JsonData: 
+    TextData:
+    - That's it for the installation, you should now be able to run the game.
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 0
+    JsonData: 
+    TextData: []
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 1
+    JsonData: '{"Level":2}'
+    TextData:
+    - Frequent Install Errors
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 2
+    JsonData: 
+    TextData:
+    - 'Check the errors in console after installing the package and trying to run
+      the game.
+
+      
+
+      PlasticSCM error, go in Window-Package Manager,
+      and remove or update the Version Control Package, it is not needed. Some Unity
+      versions don''t install the correct one by default (Unity bug).
+
+      
+
+      Burst
+      Compiler error, usually you just need to restart Unity.
+
+      
+
+      Invalid
+      Dependencies com.unity.feature.development, go in package manager, in project,
+      and remove the package with a red ! next to it. If you have this its probably
+      because your unity version downgraded though, so look at the next paragraph
+      just below because that''s important, you should not downgrade.
+
+      
+
+      Unity
+      HUB trying to convince you to change Unity Version when you reopen the project,
+      please do not downgrade Unity Version, as it will break any Unity project,
+      you can only upgrade Unity version. Sometimes Unity Hub still tries to make
+      you downgrade to the Unity version this asset was created with (because of
+      a Unity bug in some Unity Versions that override unity project version when
+      importing project settings). If Unity Hub changed your Unity Version on your
+      project, just reset it to the one you originally used to install the asset.
+      This Asset should work on ALL unity versions after 2020.3.37 (including it),
+      as long as you don''t downgrade after importing.
+
+      
+
+      UI works
+      but Dropdown don''t, that could be because the project settings were not imported
+      so the Sorting Layers are not set properly. I created a script to add the missing
+      sorting layers automatically, it will be available in 1.02. If you are not
+      on that version you can ask me the script on Discord or email. Or you can try
+      reimporting the asset and accept the override project settings.
+
+      
+
+      UI
+      not responding to any click in Menus, could be because you have the Input System
+      installed while the template uses the built-in input. You can safely remove
+      the Input System Package in Package Manager. Otherwise, if you want to keep
+      it for your project:  you just need to go in Edit-Project Settings-Player-Other
+      Settings : Active Input Handling and set it to "Both" (If you don''t have the
+      Input System package this should be set to Input Manager instead).'
+    ObjsData: []
+    VisualVersion: 0
+  - VisualID: 2
+    JsonData: 
+    TextData:
+    - 'Check the errors in console after installing the package and trying to run
+      the game.
+
+      
+
+      PlasticSCM error, go in Window-Package Manager,
+      and remove or update the Version Control Package, it is not needed. Some Unity
+      versions don''t install the correct one by default (Unity bug).
+
+      
+
+      Burst
+      Compiler error, usually you just need to restart Unity.
+
+      
+
+      Invalid
+      Dependencies com.unity.feature.development, go in package manager, in project,
+      and remove the package with a red ! next to it. If you have this its probably
+      because your unity version downgraded though, so look at the next paragraph
+      just below because that''s important, you should not downgrade.
+
+      
+
+      Unity
+      HUB trying to convince you to change Unity Version when you reopen the project,
+      please do not downgrade Unity Version, as it will break any Unity project,
+      you can only upgrade Unity version. Sometimes Unity Hub still tries to make
+      you downgrade to the Unity version this asset was created with (because of
+      a Unity bug in some Unity Versions that override unity project version when
+      importing project settings). If Unity Hub changed your Unity Version on your
+      project, just reset it to the one you originally used to install the asset.
+      This Asset should work on ALL unity versions after 2020.3.37 (including it),
+      as long as you don''t downgrade after importing.
+
+      
+
+      UI works
+      but Dropdown don''t, that could be because the project settings were not imported
+      so the Sorting Layers are not set properly. I created a script to add the missing
+      sorting layers automatically, it will be available in 1.02. If you are not
+      on that version you can ask me the script on Discord or email. Or you can try
+      reimporting the asset and accept the override project settings.
+
+      
+
+      UI
+      not responding to any click in Menus, could be because you have the Input System
+      installed while the template uses the built-in input. You can safely remove
+      the Input System Package in Package Manager. Otherwise, if you want to keep
+      it for your project:  you just need to go in Edit-Project Settings-Player-Other
+      Settings : Active Input Handling and set it to "Both" (If you don''t have the
+      Input System package this should be set to Input Manager instead).'
+    ObjsData: []
+    VisualVersion: 0

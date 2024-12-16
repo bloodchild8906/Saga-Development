@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3a09a4ab9c627fb40a51de3d59a6abe7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Runtime/Docs/DocumentBuilderDocsSubPages/CHANGE
+    LOG.asset
+  uploadId: 641860

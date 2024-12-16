@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d12848c80a8ec874fa8f3299ab1c4be9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/UIElementExtension/Runitme/ISStyle/ISStyleLength.cs
+  uploadId: 641860

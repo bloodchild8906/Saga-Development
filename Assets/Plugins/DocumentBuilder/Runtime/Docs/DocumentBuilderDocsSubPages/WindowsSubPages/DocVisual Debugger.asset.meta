@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 578e7024e63c9ec4684b73a323028f6e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Runtime/Docs/DocumentBuilderDocsSubPages/WindowsSubPages/DocVisual
+    Debugger.asset
+  uploadId: 641860

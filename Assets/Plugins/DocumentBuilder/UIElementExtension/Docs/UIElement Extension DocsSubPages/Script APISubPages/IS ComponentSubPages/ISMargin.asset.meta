@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e6a58b75d3de8c84694b4f662650281a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/UIElementExtension/Docs/UIElement Extension DocsSubPages/Script
+    APISubPages/IS ComponentSubPages/ISMargin.asset
+  uploadId: 641860

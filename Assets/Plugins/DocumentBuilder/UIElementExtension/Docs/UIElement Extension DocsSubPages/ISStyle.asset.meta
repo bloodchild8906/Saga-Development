@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec51601d4e80d1b4184128551fbaf001
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/UIElementExtension/Docs/UIElement Extension DocsSubPages/ISStyle.asset
+  uploadId: 641860

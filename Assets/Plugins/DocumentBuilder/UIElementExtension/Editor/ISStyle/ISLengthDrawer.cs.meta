@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 40e2a8de9f8c9e84abd39e7d6b550f53
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/UIElementExtension/Editor/ISStyle/ISLengthDrawer.cs
+  uploadId: 641860

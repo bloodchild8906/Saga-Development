@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 518b013124397a847b8ab2eff643616a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/ScriptAPI/NaiveAPI.DocumentBuilder.TypeReader.asset
+  uploadId: 641860

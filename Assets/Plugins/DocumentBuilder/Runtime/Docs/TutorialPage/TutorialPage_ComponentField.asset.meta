@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a08211148927d0f46a8f15c2cc30f33d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Runtime/Docs/TutorialPage/TutorialPage_ComponentField.asset
+  uploadId: 641860

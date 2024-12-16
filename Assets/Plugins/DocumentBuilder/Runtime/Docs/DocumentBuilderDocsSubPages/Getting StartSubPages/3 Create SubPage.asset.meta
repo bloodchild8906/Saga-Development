@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 09bbd3bcc3a4371468ff378b214d8d2e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Runtime/Docs/DocumentBuilderDocsSubPages/Getting
+    StartSubPages/3 Create SubPage.asset
+  uploadId: 641860

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 633f58ee406691a49a07a907e41e4855
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/ScriptAPI/NaiveAPI.DocumentBuilder.DSStringMenu.asset
+  uploadId: 641860

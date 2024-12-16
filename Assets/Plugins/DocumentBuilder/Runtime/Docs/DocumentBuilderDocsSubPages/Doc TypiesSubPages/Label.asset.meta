@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3e58e3be222ff1c42b83dbdac42cfa00
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Runtime/Docs/DocumentBuilderDocsSubPages/Doc
+    TypiesSubPages/Label.asset
+  uploadId: 641860

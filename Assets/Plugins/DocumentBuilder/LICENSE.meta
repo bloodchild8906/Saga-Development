@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bfd1a1eed04fcbd4aaf71020e18cc464
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/LICENSE
+  uploadId: 641860

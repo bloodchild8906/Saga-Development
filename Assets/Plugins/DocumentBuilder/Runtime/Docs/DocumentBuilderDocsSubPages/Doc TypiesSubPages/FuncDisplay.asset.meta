@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9e039ac7f0c870640b6a086f1ab32aee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Runtime/Docs/DocumentBuilderDocsSubPages/Doc
+    TypiesSubPages/FuncDisplay.asset
+  uploadId: 641860

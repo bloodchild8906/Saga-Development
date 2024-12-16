@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 933eee292aa9de14e946900e97b7ab0f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240100
+  packageName: Document Builder
+  packageVersion: 2.2.1
+  assetPath: Assets/DocumentBuilder/Editor/Misc/DocumentBuilderMenuDefinition.cs
+  uploadId: 641860

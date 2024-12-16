@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2ecb10172bfe5bc48829c2566c64d226
+timeCreated: 1511285267
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106041
+  packageName: CLIU - Command Line Interface for Unity
+  packageVersion: 1.0
+  assetPath: Assets/Plugins/CLIU/Resources/CLIU Modules/CLIU-Transform.prefab
+  uploadId: 228169
