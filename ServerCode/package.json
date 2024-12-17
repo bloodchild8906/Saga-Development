@@ -1,0 +1,11 @@
+{
+  "name": "SIO-v2-example-server",
+  "version": "1.0.0",
+  "description": "Example server for Unity Socket.IO v2 Asset",
+  "author": "Firesplash Entertainment <support@firesplash.de>",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.4.1"
+  }
+}

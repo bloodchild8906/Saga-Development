@@ -7,7 +7,7 @@ namespace Verpha.HierarchyDesigner
         #region Asset Info
         public const string AssetName = "Hierarchy Designer";
         public const string AssetVersion = "VERSION 1.1.9";
-        public const string AssetLocation = "Tools/Hierarchy Designer";
+        public const string AssetLocation = "Hierarchy Designer/Open Window";
         #endregion
 
         #region Menu Info

@@ -55,3 +55,156 @@ MonoBehaviour:
       EditorTypeName: Sirenix.OdinInspector.Editor.OdinEditor, Sirenix.OdinInspector.Editor
     - DrawnTypeName: Unity.VisualScripting.VariablesSaver, Unity.VisualScripting.Core
       EditorTypeName: Sirenix.OdinInspector.Editor.OdinEditor, Sirenix.OdinInspector.Editor
+    - DrawnTypeName: Michsky.UI.Heat.AchievementItem, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.AchievementLibrary, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.BoxContainer, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.BoxContainerItem, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.CanvasGroupAnimator, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.CanvasManager, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.ChapterIdentifier, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.ControllerPreset, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.ControllerPresetManager, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.CreditsMentionItem, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.CreditsPreset, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.CreditsSectionItem, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.ExitGame, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.HeatUIInternalTools, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.ImageFading, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.ImagePulse, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.InputFieldManager, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.InputNavigationLimiter, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.LaunchURL, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.LayoutGroupFix, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.PointerEvent, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.RectDepth, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.ScrollbarInputHandler, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.SelectorInputHandler, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.SettingsDescription, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.SettingsDescriptionManager, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.SettingsSubElement, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.ShinyImage, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.SliderInput, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.SliderInputHandler, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.SmoothScrollbar, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.Spinner, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.TextTimeCounter, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.UIElementSound, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.UIManagerColorChanger, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.UIManagerFontChanger, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.UIManagerSplashScreen, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.UIPopup, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Heat.UISway, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.AnimatedButton, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.BlurManager, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.CheckButton, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.DropdownSubMenu, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.ExitToSystem, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.FeedbackSystem, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.FriendsPanelAnim, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.HoldKeyEvent, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.LaunchURL, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.LayoutGroupPositionFix, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.ListContentSizeFix, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.LoadingScreen, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.LoadingStyle, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.LoadScene, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.PressKey, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.ReorderableList, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.ReorderableListContent, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.ReorderableListElement, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.SliderManager, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.SplashScreenManager, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.SwitchManager, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.TimedAction, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.TimedProgressBar, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.ToggleAnim, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.TooltipContent, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.TooltipManager, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.TopPanelButton, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.TopPanelManager, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.UIElementSound, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.Frost.WeaponSelectionAnim, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.ModernUIPack.CustomInputField, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Michsky.UI.ModernUIPack.HorizontalSelector, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: ExampleScript, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Verpha.HierarchyDesigner.HierarchyDesigner_Manager_Session,
+        Assembly-CSharp-Editor-firstpass
+      EditorTypeName: 
+    - DrawnTypeName: UnityEngine.UI.Michsky.UI.Frost.UIGradient, Assembly-CSharp
+      EditorTypeName: 
+    - DrawnTypeName: Firesplash.UnityAssets.SocketIO.SocketIOCommunicator, Firesplash.UnityAssets.SocketIO
+      EditorTypeName: 
+    - DrawnTypeName: Firesplash.UnityAssets.SocketIO.Internal.SIODispatcher, Firesplash.UnityAssets.SocketIO
+      EditorTypeName: 

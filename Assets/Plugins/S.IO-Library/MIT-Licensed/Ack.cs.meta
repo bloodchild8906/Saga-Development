@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 55d587ea3715b924aad6a6623e9cf32f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 186263
+  packageName: Socket.IO V2 Client for Unity (Standalone & WebGL)
+  packageVersion: 1.3.3
+  assetPath: Assets/Firesplash Entertainment/Socket.IO/S.IO-Library/MIT-Licensed/Ack.cs
+  uploadId: 454210
